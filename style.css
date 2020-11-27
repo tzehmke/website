@@ -1,0 +1,36 @@
+body {
+  color: darkorchid;
+  font-size: 14px;
+  font-family: 'Noto Sans', sans-serif;
+  background-color: aqua;
+}
+
+
+
+h1 {
+  color: #green;
+  font-family: Helvetica, Arial;
+}
+
+h2 {
+  color: darkblue;
+}
+
+p {
+  font-size: 18px;
+  color: black;
+}
+
+section {
+  color: chocolate;
+}
+
+header {
+  color: purple;
+}
+
+footer {
+  color: black;
+  font-size: 12px;
+  font-family: 'Indie Flower', cursive;
+}
