@@ -1,3 +1,8 @@
+/* Website Styles */
+
+* {
+  font-size: 100%;
+}
 body {
   color: darkorchid;
   font-size: 14px;
@@ -31,6 +36,6 @@ header {
 
 footer {
   color: black;
-  font-size: 12px;
+  font-size: 14px;
   font-family: 'Indie Flower', cursive;
 }
