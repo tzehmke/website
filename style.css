@@ -146,9 +146,11 @@ body {
 
 .akfimage2 {
   display: block;
-  margin: auto;
+  margin-left: auto;
+  margin-right: auto;
   padding-right: 8%;
   max-width: 50%;
+  text-align: center;
 }
 
 .description {
@@ -215,6 +217,7 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  text-align: center;
 }
 
 iframe[Attributes Style] {
