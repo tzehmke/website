@@ -146,8 +146,8 @@ body {
 
 .sweaterimage {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  margin: auto;
+  padding-right: 8%;
   max-width: 50%;
 }
 
@@ -208,6 +208,29 @@ center {
 img {
   width: 100%;
   padding: 10%;
+}
+
+.videos {
+  max-width: 80%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+iframe[Attributes Style] {
+  width: 50%;
+  height: 50%;
+  border-top-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 0px;
+  border-left-width: 0px;
+}
+
+iframe {
+  border-width: 2px;
+  border-style: inset;
+  border-color: initial;
+  border-image: initial;
 }
 
 a:link,
